@@ -85,6 +85,6 @@ This project was submitted as **Task 1** under the **Codveda Technologies Data S
 
 ## 🔗 Connect with Me
 
-- 📧 Email: [radheverma146@gmail.com](mailto:radheverma146@gmail.com)  
-- 🔗 GitHub: [https://github.com/Radhe127](https://github.com/Radhe127)  
-- 🔗 LinkedIn: [https://linkedin.com/in/radheverma](https://linkedin.com/in/radheverma)
+- 📧 Email: [dharshni2404@gmail.com](mailto:dharshni2404@gmail.com)  
+- 🔗 GitHub: [https://github.com/PriyaDharshini-2404](https://github.com/PriyaDharshini-2404)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/priya-dharshini-4a519928a](https://www.linkedin.com/in/priya-dharshini-4a519928a)
